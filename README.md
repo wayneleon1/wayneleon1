@@ -1,4 +1,3 @@
-/* <img align="right" alt="Coding" width="2000" height="300" src="https://i.pinimg.com/564x/54/86/e5/5486e5035c9ece0fdcab0b75c423adfe.jpg"/> */
 
 <h1 align="center">Hi 👋, I'm Rurangwa Leo</h1>
 <h3 align="center">I'm a Full Stack Developer with a passion for creating innovative software solutions. With expertise in both front-end and back-end development, I specialize in crafting user-friendly applications using a variety of programming languages and frameworks.</h3>
