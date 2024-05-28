@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wayneleon1&label=Profile%20views&color=0e75b6&style=flat" alt="wayneleon1" /> </p>
 
-- 🌱 I’m currently learning **Next js and Nest js**
+- 🌱 I’m currently learning **Next js and React Native**
 
 - 💬 Ask me about **React js , Node js and Typescript**
 
