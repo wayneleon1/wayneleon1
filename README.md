@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js and React Native**
 
-- 💬 Ask me about **React js , Node js and Typescript**
+- 💬 Ask me about **Next js ,React js, Node js and Typescript**
 
 - 📫 How to reach me **rurangwaleon10@gmail.com**
 
