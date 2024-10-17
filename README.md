@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/wayneleon1"><img src="https://api.daily.dev/devcards/v2/UUZNWzpWJbIwd8oFDbYBw.png?type=default&r=t9z" width="356" alt="Rurangwa Leo's Dev Card"/></a>
+<a href="https://app.daily.dev/wayneleon1"><img src="https://api.daily.dev/devcards/v2/UUZNWzpWJbIwd8oFDbYBw.png?type=wide&r=t9z" width="652" alt="Rurangwa Leo's Dev Card"/></a>
 </p>
 
 <p align="center">
