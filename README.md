@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"/>
+  <a href="https://app.daily.dev/wayneleon1"><img src="https://api.daily.dev/devcards/v2/UUZNWzpWJbIwd8oFDbYBw.png?type=default&r=t9z" width="356" alt="Rurangwa Leo's Dev Card"/></a>
 </p>
 
 <p align="center">
