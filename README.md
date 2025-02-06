@@ -40,7 +40,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wayneleon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="Leo's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wayneleon1&theme=github_dark&hide_border=false" alt="Leo's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayneleon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Leo's Top Languages"/>
 </p>
 
