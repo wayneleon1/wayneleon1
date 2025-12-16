@@ -8,9 +8,7 @@
   I'm passionate about building innovative, scalable software solutions. With expertise in both front-end and back-end development, I specialize in creating seamless, user-centric applications using cutting-edge technologies.
 </p>
 
-<p align="center">
-<a href="https://app.daily.dev/wayneleon1"><img src="https://api.daily.dev/devcards/v2/UUZNWzpWJbIwd8oFDbYBw.png?type=wide&r=t9z" width="652" alt="Rurangwa Leo's Dev Card"/></a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wayneleon1&label=Profile%20views&color=0e75b6&style=flat-square" alt="wayneleon1" />
