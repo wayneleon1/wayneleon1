@@ -40,6 +40,5 @@
 </p> -->
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wayneleon1&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=wayneleon1&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wayneleon1&layout=compact&theme=github_dark)
 
