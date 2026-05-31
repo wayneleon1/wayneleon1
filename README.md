@@ -35,7 +35,11 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayneleon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Leo's Top Languages"/>
-</p>
+</p> -->
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wayneleon1&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=wayneleon1&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wayneleon1&layout=compact&theme=github_dark)
 
